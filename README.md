@@ -42,8 +42,4 @@
   </ul>
 </p>
 
-<h3 align="center">Ongoing Projects:</h3>
-<p align="center">
-  - **AI Chatbot**: Building a chatbot using NLP techniques to provide intelligent responses.
-  - **Stock Price Prediction**: Working on a machine learning model to predict stock prices based on historical data.
 </p>
