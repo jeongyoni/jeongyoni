@@ -32,9 +32,6 @@
   <li>💬 Studying <strong>Japanese</strong> (JPT)</li>
 </ul>
 
-
-<h3 align="center">🚀 Currently Learning</h3>
-<p align="center">I'm exploring the world of <strong>Data Science</strong> and <strong>Machine Learning</strong>, while also working on fun projects like a <strong>keyboard key feel simulator</strong> and improving my <strong>Japanese</strong> and <strong>HTML/CSS</strong> skills.</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/> 
