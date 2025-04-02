@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=jeongyoni&label=Profile%20views&color=0e75b6&style=flat" alt="jeongyoni" /> 
 </p>
 
-<h3 align="center">💼 Aspiring Data Analyst & Data Scientist</h3>
+<h3 align="center">💼 Aspiring Data Analyst & Data Scientist!</h3>
 
 <p align="center">
   Passionate about extracting insights from data and building meaningful stories with numbers.  
