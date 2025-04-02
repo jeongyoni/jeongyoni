@@ -47,7 +47,6 @@
 <p align="center">
   In my free time, I enjoy:
   <ul>
-    <li>🧩 Solving <strong>Sudoku</strong> and logic puzzles</li>
     <li>🎮 Playing <strong>League of Legends</strong>,(strategic team play)</li>
     <li>🏋️‍♂️ Staying active through regular <strong>fitness & workouts</strong></li>
     <li>💬 Learning languages, currently focused on improving my Japanese.</li>
