@@ -27,7 +27,6 @@
 <ul>
   <li> Advanced <strong>data analysis</strong> using Python (pandas, matplotlib, seaborn)</li>
   <li> Exploring <strong>machine learning</strong> models (scikit-learn, regression/classification)</li>
-  <li>Web development using <strong>HTML</strong> + GitHub Pages</li>
   <li> Preparing for <strong>TOEIC Speaking</strong> & <strong>MOS PowerPoint</strong> certification</li>
 </ul>
 
