@@ -45,7 +45,7 @@
   <ul>
     <li>🎮 Playing <strong>League of Legends</strong>,(strategic team play)</li>
     <li>🏋️‍♂️ Staying active through regular <strong>fitness & workouts</strong></li>
-    <li>💬 Learning languages, currently focused on improving my Japanese.</li>
+    <li>💬 Interested in learning languages</li>
   </ul>
 </p>
 
