@@ -1,3 +1,10 @@
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jeongyoni&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jeongyoni"
+  width="600"
+  height="300"
+/>
+</a>
 <h1 align="center">Hi,I'm Jeongyeon</h1>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jeongyoni&label=Profile%20views&color=0e75b6&style=flat" alt="jeongyoni" /> 
