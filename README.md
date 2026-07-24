@@ -200,8 +200,6 @@ YouTube, Instagram, TikTok에서 뷰티 제품 리뷰와 발색 콘텐츠를 운
 - 📝 [Tistory Blog](https://jeongyoni.tistory.com/)  
   IT 학습 내용과 프로젝트 문제 해결 과정 정리
 
-- 💻 [GitHub Portfolio](https://jeongyoni.github.io/)  
-  프로젝트 및 기술 학습 기록
 
 ---
 
