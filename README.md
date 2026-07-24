@@ -22,9 +22,6 @@
   <a href="https://jeongyoni.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" />
   </a>
-  <a href="https://jeongyoni.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
